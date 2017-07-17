@@ -1,7 +1,6 @@
 // bower:scss
 @import "bower_components/bootstrap/scss/bootstrap.scss";
 @import "bower_components/font-awesome/scss/font-awesome.scss";
-
 // endbower
 
 body {
@@ -249,4 +248,15 @@ body {
 @media (min-width: 48em) {}
 
 /* Responsive: Portrait tablets and up */
-@media screen and (min-width: 48em) {}
+@media screen and (min-width: 48em) {
+  /*  body .page .first-page .contact {
+    margin-top: 0px;
+  } */
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 90em) {
+  /* body .page .first-page .contact {
+    margin-top: 470px;
+  } */
+}
